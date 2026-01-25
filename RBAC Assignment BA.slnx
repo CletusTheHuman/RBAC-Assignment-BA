@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="RBAC Assignment BA/RBAC Assignment BA.vcxproj" />
+  <Project Path="RBAC Assignment BA/RBAC Assignment BA.vcxproj" Id="43f91f43-5850-49f6-8bc4-ba5d56ea5644" />
 </Solution>
